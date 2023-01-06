@@ -8,3 +8,12 @@ printf("...............................");
 printf(" You've withdraw %d amount",amount);
 return 0;
 }
+............................
+#include<stdio.h>
+#include<conio.h>
+int main(){
+string name;
+printf("What's your name");
+scanf(" %s",&name);
+return 0;
+}
